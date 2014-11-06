@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "SK8": {
+            "applicationId": "9ZdvyrirVLKeN5wZTaJ3DO6pATVVQn7qW0SgYO1i", 
+            "masterKey": "z59K96IfHZBRDSPN0PKvZar0wz91TZSKwb3DdSn8"
+        }, 
+        "_default": {
+            "link": "SK8"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
